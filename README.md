@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Charlie Soon
+- 👀 I’m interested in data analysis, electronics, photovoltaics and programming
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on data analysis projects that support sustainability
+- 📫 How to reach me charliesoon@gmail.com
